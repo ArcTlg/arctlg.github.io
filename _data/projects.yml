@@ -2,22 +2,15 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Ege Üniversitesi - İstatistik Bölümü - Lisas Projesi
+    link: "https://github.com/ArcTlg/3_Par_Weibull_Dis"
+    tagline: "3-parametreli Weibull Dağılışının maximum likelihood tahmincilerinin k-nearest neighbors algoritması ile
+    elde edilmesi projesini yapmak için Python programlama dili kullanılmıştır. İlgili projeye Github sayfamdan
+    ulaşabilirsiniz. http://fen.ege.edu.tr/istatistik/tr/photos/etkinlik_foto/22/b/60672b3f4422fa4dcc6cbd6db70c2177.png"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-  - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Android Mobil Oyun Projesi
+    link: "https://play.google.com/store/apps/details?id=com.mintapps.bilginsworld&hl=tr"
+    tagline: "Üniversite'de merak duyup kendi çabalarımla öğrendiğim Android programlamayı basit bir oyun geliştirerek
+     uygulamaya dönüştürdüm. Android oyununun adı Bilginin Bilgi Yarışması ' dır.
+     Bu oyunu libGDX oyun framework'ünü kullanarak geliştirdim. libGDX oyun framework'ü java tabanlı olup,
+     birden çok platformu destekleyen bir kütüphanedir. Oyun GooglePlay Store'da halen bulunmakdatır."
