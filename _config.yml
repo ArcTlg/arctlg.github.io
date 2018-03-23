@@ -1,6 +1,6 @@
 # Site Settings
 title: Tolga Ozturk
-url: 'https://arctlg.github.io/'
+url: ''
 baseurl: '' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -17,7 +17,7 @@ style: styles-6
 name: Tolga Öztürk
 tagline: Data Scientist
 pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '<a href="tolga_ozturk_cv.pdf" target="_blank">CV'me buradan ulaşabilirsiniz</a>'
+summary: ''
 
 #sidebar links
 email: oztrk.tolga@gmail.com
