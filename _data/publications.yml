@@ -1,15 +1,24 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Django Girls İzmir
+    details: "Django Girls İzmir kapsamında nasıl websitesi yapılacağını öğrenmek isteyenler için tek günlük atölye
+    düzenlenmiştir. Mentör olarak bulunduğum bu etkinlikte katılımcılara
+    https://tutorial.djangogirls.org/tr/ sitesi üzerinden adım adım onlara yardımcı olarak bir web sitesi nasıl
+    yapılır anlatmaya çalıştım. Etkinlik Sayfası: https://djangogirls.org/izmir/"
+    place: Dokuz Eylül Üniversitesi Sürekli Eğitim Merkezi
+    time: 24.03.2017 (9 saat)
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: Geliştiriciler İçin Linux-Akademik Bilişim-17
+    details: "Akademik Bilişim 2017 - Aksaray Üniversitesinde düzenlenen etkinlikte Zetaops şirketi olarak
+    katılımcılara Geliştiriciler için linux eğitimi verdik. İlgili link: http://ab.org.tr/ab17/kursdir/196.html"
+    place: Aksaray Üniversitesi
+    time: 08.02.2017 - 10.02.2017 (32 saat)
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: Android libGDX Atölyesi-Sende Yap İzmir
+    details: "İzmir'de Ege Üniversitesi'nde düzenlenen Sende Yap İzmir etkinliğin de üyesi olduğum
+    İzmir Hackerspace topluluğu adına bu etkinliğe eğitmen olarak katılıp katılımcılara,
+    mobil oyun geliştirme kütüphanesi olan libGDX 'i anlattım."
+    place: Ege Üniversitesi
+    time: 06.05.2016 (2 saat)
+

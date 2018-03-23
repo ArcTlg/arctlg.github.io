@@ -1,28 +1,28 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Yazılım Geliştirme Elemanı
+  time: 04.2016 - 07.2017
+  company: Zetaops Bilişim Teknolojileri A.Ş, İzmir
+  details: "Zetaops şirketinde back-end bölümünde Python developer olarak çalıştım.
+  Çalıştığım süre boyunca Tübitak Ulakbim tarafından başlatılan
+  Ulakbüs(http://www.ulakbus.org/) projesini geliştirdik. Bu proje kapsamında yaptıklarım;
+    Yeni BPMN workflow'ların oluşturulması,
+    İş akışı ve testlerinin yazılması,
+    SOAP servislerinin yazılması,
+    Test datalarının oluşturulması,
+    Ulakbüs projesi: https://github.com/zetaops/ulakbus"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
+  role: Veri Giriş Elemanı
+  time: 04.2015 - 05.2015
+  company: Gediz Elektrik A.Ş, İzmir
   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Stajyer
+  time: 07.2014 - 08.2014
+  company: Enternasyonel Gravur A.Ş, İzmir
+  details: "Staj yaptığım süre boyunca şirket içerisinde, kullanılan kurumsal yazılımın
+  incelenmesi, veri tabanı sorgulamalarının yapılması, şirket içi kullanıcılarından
+  gelen şikayetleri analiz edip kullanılan kurumsal yazılım da iyileştirmelerin
+  yapılmasında katkıda bulundum."
